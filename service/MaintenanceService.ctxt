@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MaintenanceService
+comment1.params=
+comment1.target=MaintenanceService()
+comment2.params=
+comment2.target=boolean\ isOp()
+comment3.params=on
+comment3.target=void\ setMode(boolean)
+numComments=4

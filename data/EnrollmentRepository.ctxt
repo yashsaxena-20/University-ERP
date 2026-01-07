@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EnrollmentRepository
+comment1.params=uid
+comment1.target=java.util.List\ getByStu(long)
+comment2.params=sid
+comment2.target=java.util.List\ getBySec(long)
+comment3.params=stu\ sec
+comment3.target=void\ add(long,\ long)
+comment4.params=eid
+comment4.target=void\ del(long)
+comment5.params=sec
+comment5.target=int\ count(long)
+numComments=6

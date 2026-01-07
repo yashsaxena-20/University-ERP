@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=GradeRepository
+comment1.params=eid
+comment1.target=java.util.List\ getByEnr(long)
+comment2.params=g
+comment2.target=void\ save(edu.univ.erp.domain.Grade)
+comment3.params=eid\ finalGrade
+comment3.target=void\ updateFinalGrade(long,\ java.lang.String)
+comment4.params=eid
+comment4.target=java.lang.String\ getFinalGrade(long)
+numComments=5

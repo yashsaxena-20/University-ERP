@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SettingsRepository
+comment1.params=k
+comment1.target=java.lang.String\ getVal(java.lang.String)
+comment2.params=k\ v
+comment2.target=void\ setVal(java.lang.String,\ java.lang.String)
+numComments=3

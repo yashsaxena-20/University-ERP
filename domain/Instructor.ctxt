@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Instructor
+comment1.params=uid\ dept
+comment1.target=Instructor(long,\ java.lang.String)
+comment2.params=
+comment2.target=long\ getUid()
+comment3.params=
+comment3.target=java.lang.String\ getDept()
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DbConnection
+comment1.params=
+comment1.target=java.sql.Connection\ getAuth()
+comment2.params=
+comment2.target=java.sql.Connection\ getErp()
+numComments=3

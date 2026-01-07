@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AdminService
+comment1.params=
+comment1.target=AdminService()
+comment2.params=u\ p\ r\ pg\ y
+comment2.target=java.lang.String\ addStu(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment3.params=u\ p\ d
+comment3.target=java.lang.String\ addInst(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=c
+comment4.target=void\ addCourse(edu.univ.erp.domain.Course)
+comment5.params=s
+comment5.target=void\ addSection(edu.univ.erp.domain.Section)
+numComments=6

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CatalogService
+comment1.params=
+comment1.target=CatalogService()
+comment2.params=
+comment2.target=java.util.List\ getCourses()
+comment3.params=
+comment3.target=java.util.List\ getSections()
+numComments=4

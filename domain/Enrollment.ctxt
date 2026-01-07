@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Enrollment
+comment1.params=eid\ uid\ sid\ stat
+comment1.target=Enrollment(long,\ long,\ long,\ java.lang.String)
+comment2.params=
+comment2.target=long\ getEid()
+comment3.params=
+comment3.target=long\ getUid()
+comment4.params=
+comment4.target=long\ getSid()
+comment5.params=
+comment5.target=java.lang.String\ getStat()
+numComments=6
